@@ -1,0 +1,13 @@
+﻿1 : Giới thiệu về PJ : TUẤN ANH
+Tên, Mục đích , Mô tả, Nhân sự, thời gian, giá, Rủi ro ( Kèo theo mỗi rũi ro là đề xuất 1 phương án )
+2 : Đặc tả : Giới thiệu về hệ thống : Đức Anh
+3 : Phân tích thiết kế : Hùng 
+Phân tích , vẽ các biểu đồ đã học , user-case , luồng, lớp, sagement , UML
+4 : Code : Toàn +Sơn
+Lựa chọn công nghệ, giải thích , tại sao lựa chọn công nghê này mà không lựa chọn công nghê khác, giải thích, ưu nhược của công nghệ đó.
+Phía server như thế nào 
+5 : Kiểm thử : Toàn +Sơn
+Đưa ra các test care, phân tích hộp đen , dựa vào cái gì để kiểm thử
+Đưa ra các trường hợp kiểm thử, viết 1 đoạn code ngắn đặc tả một modul nào đó, phân tích hộp trắng của nó 
+6: Kết luận 
+7: Chụp màn hình các version control . Ai không có 0 điểm
