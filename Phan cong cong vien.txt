@@ -11,3 +11,4 @@ Phía server như thế nào
 Đưa ra các trường hợp kiểm thử, viết 1 đoạn code ngắn đặc tả một modul nào đó, phân tích hộp trắng của nó 
 6: Kết luận 
 7: Chụp màn hình các version control . Ai không có 0 điểm
+8: hùng commit thử
